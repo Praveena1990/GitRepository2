@@ -7,3 +7,5 @@ Folders:
 	Config is store in keyvalue pair.
    e)   hooks :It contains scripts that are to be auto executed after commands.
    f)    logs : Logging information of commands/success/failures.
+
+Staging : Making a file ready for committing (saving) - 1st Phase of 2 phase commit

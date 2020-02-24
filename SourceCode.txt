@@ -1,0 +1,9 @@
+Folders: 
+
+   a) Objects : All the data that is checked in is stored here.
+   b) Refs : All the refernces are stored here.
+   c) HEAD file : It has reference to current active branch. Command : type head
+   d) Config : It has all configuration information like user name, Password etc . Command : type config
+	Config is store in keyvalue pair.
+   e)   hooks :It contains scripts that are to be auto executed after commands.
+   f)    logs : Logging information of commands/success/failures.

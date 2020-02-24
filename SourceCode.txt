@@ -9,3 +9,6 @@ Folders:
    f)    logs : Logging information of commands/success/failures.
 
 Staging : Making a file ready for committing (saving) - 1st Phase of 2 phase commit
+
+The staged file is in the cache.
+To remove the staged file from cache: git rm --cached "SourceCode.txt"
